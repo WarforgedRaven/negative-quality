@@ -1,0 +1,12 @@
+{
+    "name": "negative-quality",
+    "version": "0.0.1",
+    "title": "Negative Quality",
+    "description": "Adds a chance to create negative quality items qhen rolling for quality. The same stats are changed but goes to -99%",
+    "author": "Warforged_Raven",
+    "factorio_version": "2.1",
+    "dependencies": [
+        "base >= 2.0",
+        "quality >= 2.0"
+    ]
+}
